@@ -16,3 +16,7 @@ def get_weather(city, api_key):
 API_KEY = "your_api_key_here"
 city_name = input("Enter a city: ")
 get_weather(city_name, API_KEY)
+
+
+git commit -m "1st commit"
+#this is my code
